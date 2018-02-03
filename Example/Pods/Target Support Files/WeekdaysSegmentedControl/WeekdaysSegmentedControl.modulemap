@@ -1,0 +1,6 @@
+framework module WeekdaysSegmentedControl {
+  umbrella header "WeekdaysSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

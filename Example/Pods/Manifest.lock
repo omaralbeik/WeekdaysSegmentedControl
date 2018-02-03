@@ -1,0 +1,16 @@
+PODS:
+  - WeekdaysSegmentedControl (1.1.0)
+
+DEPENDENCIES:
+  - WeekdaysSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  WeekdaysSegmentedControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WeekdaysSegmentedControl: 321598db7a86cb541ea42ee64d4373f24d1a5681
+
+PODFILE CHECKSUM: 52cb8cad39f4e1e33601e45d03f73d147abdbf47
+
+COCOAPODS: 1.4.0
