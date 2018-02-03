@@ -4,47 +4,50 @@
     <title>logo</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="334" height="48" rx="10"></rect>
+        <rect id="path-1" x="0" y="0" width="417" height="60" rx="10"></rect>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="logo">
-            <g id="Group" transform="translate(184.000000, 49.000000)">
+            <g id="Group" transform="translate(142.000000, 33.000000)">
                 <g id="Rectangle-Copy-8">
                     <use fill="#DDDEE0" fill-rule="evenodd" xlink:href="#path-1"></use>
-                    <rect stroke="#000000" stroke-width="1" x="-0.5" y="-0.5" width="335" height="49" rx="10"></rect>
+                    <rect stroke="#000000" stroke-width="1" x="-0.5" y="-0.5" width="418" height="61" rx="10"></rect>
                 </g>
-                <path d="M10,0 L48,0 L48,48 L10,48 C4.4771525,48 6.76353751e-16,43.5228475 0,38 L0,10 C-6.76353751e-16,4.4771525 4.4771525,2.79088747e-15 10,1.77635684e-15 Z" id="Rectangle-Copy" fill="#F1F1F1"></path>
-                <rect id="Rectangle-Copy-3" fill="#3598DB" x="48" y="0" width="48" height="48"></rect>
-                <rect id="Rectangle-Copy-4" fill="#F1F1F1" x="95" y="0" width="48" height="48"></rect>
-                <rect id="Rectangle-Copy-5" fill="#3598DB" x="143" y="0" width="48" height="48"></rect>
-                <rect id="Rectangle-Copy-6" fill="#F1F1F1" x="191" y="0" width="48" height="48"></rect>
-                <rect id="Rectangle-Copy-7" fill="#3598DB" x="238" y="0" width="48" height="48"></rect>
-                <path d="M286,0 L324,0 C329.522847,-1.01453063e-15 334,4.4771525 334,10 L334,38 C334,43.5228475 329.522847,48 324,48 L286,48 L286,0 Z" id="Rectangle-Copy-2" fill="#F1F1F1"></path>
+                <path d="M10,0 L60,0 L60,60 L10,60 C4.4771525,60 6.76353751e-16,55.5228475 0,50 L0,10 C-6.76353751e-16,4.4771525 4.4771525,-2.53818305e-15 10,-3.55271368e-15 Z" id="Rectangle-Copy" fill="#F1F1F1"></path>
+                <rect id="Rectangle-Copy-3" fill="#3598DB" x="60" y="0" width="60" height="60"></rect>
+                <rect id="Rectangle-Copy-4" fill="#F1F1F1" x="119" y="0" width="60" height="60"></rect>
+                <rect id="Rectangle-Copy-5" fill="#3598DB" x="179" y="0" width="60" height="60"></rect>
+                <rect id="Rectangle-Copy-6" fill="#F1F1F1" x="238" y="0" width="60" height="60"></rect>
+                <rect id="Rectangle-Copy-7" fill="#3598DB" x="297" y="0" width="60" height="60"></rect>
+                <path d="M357,0 L407,0 C412.522847,-1.01453063e-15 417,4.4771525 417,10 L417,50 C417,55.5228475 412.522847,60 407,60 L357,60 L357,0 Z" id="Rectangle-Copy-2" fill="#F1F1F1"></path>
                 <text id="SUN" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#354A5F">
-                    <tspan x="9.47363281" y="30">SUN</tspan>
+                    <tspan x="14.9736328" y="36">SUN</tspan>
                 </text>
                 <text id="MON" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#FFFFFF">
-                    <tspan x="54.0478516" y="30">MON</tspan>
+                    <tspan x="71.5478516" y="36">MON</tspan>
                 </text>
                 <text id="TUE" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#354A5F">
-                    <tspan x="105.436523" y="30">TUE</tspan>
+                    <tspan x="134.936523" y="36">TUE</tspan>
                 </text>
                 <text id="WED" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#FFFFFF">
-                    <tspan x="151.335449" y="30">WED</tspan>
+                    <tspan x="193.335449" y="36">WED</tspan>
                 </text>
                 <text id="THU" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#354A5F">
-                    <tspan x="200.086426" y="30">THU</tspan>
+                    <tspan x="253.586426" y="36">THU</tspan>
                 </text>
                 <text id="FRI" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#FFFFFF">
-                    <tspan x="251.164062" y="30">FRI</tspan>
+                    <tspan x="315.664062" y="36">FRI</tspan>
                 </text>
                 <text id="SAT" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#354A5F">
-                    <tspan x="297.050781" y="30">SAT</tspan>
+                    <tspan x="374.050781" y="36">SAT</tspan>
                 </text>
             </g>
             <text id="WeekdaysSegmentedCon" font-family="OpenSans-Bold, Open Sans" font-size="40" font-weight="bold">
-                <tspan x="75.1484375" y="151" fill="#354A5F">Weekdays</tspan>
-                <tspan x="276.398438" y="151" font-family="OpenSans, Open Sans" font-weight="normal" fill="#3598DB">SegmentedControl</tspan>
+                <tspan x="75.1484375" y="157" fill="#354A5F">Weekdays</tspan>
+                <tspan x="276.398438" y="157" font-family="OpenSans, Open Sans" font-weight="normal" fill="#3598DB">SegmentedControl</tspan>
+            </text>
+            <text id="A-Custom-segmented-c" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="114.018066" y="196">A Custom segmented control to select weekdays for iOS.</tspan>
             </text>
         </g>
     </g>
