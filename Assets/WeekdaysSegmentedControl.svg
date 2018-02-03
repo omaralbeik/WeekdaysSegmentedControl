@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="700px" height="220px" viewBox="0 0 700 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>logo</title>
+    <title>WeekdaysSegmentedControl</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="417" height="60" rx="10"></rect>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="logo">
+        <g id="WeekdaysSegmentedControl">
             <g id="Group" transform="translate(142.000000, 33.000000)">
                 <g id="Rectangle-Copy-8">
                     <use fill="#DDDEE0" fill-rule="evenodd" xlink:href="#path-1"></use>
